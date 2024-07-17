@@ -1,5 +1,9 @@
 # persontracking
 Project 2: Person Tracking AI for Indonesia
+#download
+Download link
+https://drive.google.com/file/d/1cxlyp0SVDFRONJct6viZK6rQG3wU1zK7/view?usp=sharing
+
 #pertama
 python installed min Python 3.11.5
 
